@@ -1,0 +1,32 @@
+clc;
+clear;
+a = input("Enter 10 numbers: ");
+total = sum(a); 
+average = mean(a); 
+maximum = max(a);
+minimum = min(a);
+disp("Sum:"); 
+disp(total);
+disp("Average:");
+disp(average);
+disp("Maximum:"); 
+disp(maximum);
+disp("Minimum:");
+disp(minimum);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
